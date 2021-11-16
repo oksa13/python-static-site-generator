@@ -372,3 +372,4 @@ def test_ssg_typer_run_module1(parse):
     )
     run_call_exist = run_call is not None
     assert run_call_exist, "Are you calling `run()` on `typer` and passing in `main`?"
+    

@@ -470,3 +470,4 @@ def test_site_error_call_module4(parse):
     ]
 
     assert error_message, "Are you passing in the correct error message?"
+     

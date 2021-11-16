@@ -694,3 +694,4 @@ def test_site_build_elif_module2(parse):
         is not None
     )
     assert run_parser_call, "Are you calling self.run_parser() in the `elif`?"
+    
